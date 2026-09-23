@@ -1,6 +1,8 @@
 # Automation Scripts Repository
 
-A collection of useful automation scripts written in **Python** and **Windows Batch** to streamline daily PC tasks. These tools handle system cleanup, automatic file backups, and batch file renaming.
+A collection of useful automation scripts written in **Python** and **Windows Batch** to streamline daily PC tasks. These tools handle system cleanup, automatic file backups, files automatic deletor and batch file renaming.
+
+https://github.com/user-attachments/assets/bc606199-1916-4a13-bfa7-29a55997e9f5
 
 ## 🚀 Features
 
