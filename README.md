@@ -2,7 +2,10 @@
 
 A collection of useful automation scripts written in **Python** and **Windows Batch** to streamline daily PC tasks. These tools handle system cleanup, automatic file backups, files automatic deletor and batch file renaming.
 
-https://github.com/user-attachments/assets/bc606199-1916-4a13-bfa7-29a55997e9f5
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/2a8a79df-93e6-4e48-9635-3659d7de7214" autoplay loop muted controls width="100%">
+  </video>
+</p>
 
 ## 🚀 Features
 
